@@ -1,0 +1,19 @@
+{
+    "nombre": "Daniel Gómez Pérez",
+    "biografia": "Soy un estudiante de la tecnología en Análisis y desarrollo de software en el SENA en Medellín, me gusta python, mySql y crear diagramas de casos de uso para un producto de software.",
+    "links": [
+      {
+        "title": "Mi perfil en LinkedIn",
+        "url": "https://www.linkedin.com/in/mi-perfil"
+      },
+      {
+        "title": "Mi Instagram",
+        "url": "https://www.instagram.com/mi-instagram"
+      },
+      {
+        "title": "Mi blog sobre desarrollo web",
+        "url": "https://www.mi-blog.com"
+      }
+    ]
+  }
+  
